@@ -1,1 +1,2 @@
 # GitQT
+New Line
